@@ -9,3 +9,14 @@ D:\Studies\C#\tutorials\hello_world\hello_world\obj\Debug\netcoreapp2.0\hello_wo
 D:\Studies\C#\tutorials\hello_world\hello_world\obj\Debug\netcoreapp2.0\hello_world.AssemblyInfo.cs
 D:\Studies\C#\tutorials\hello_world\hello_world\obj\Debug\netcoreapp2.0\hello_world.dll
 D:\Studies\C#\tutorials\hello_world\hello_world\obj\Debug\netcoreapp2.0\hello_world.pdb
+D:\Studies\C#\tutorials\C-_practice\hello_world\hello_world\bin\Debug\netcoreapp2.0\hello_world.deps.json
+D:\Studies\C#\tutorials\C-_practice\hello_world\hello_world\bin\Debug\netcoreapp2.0\hello_world.runtimeconfig.json
+D:\Studies\C#\tutorials\C-_practice\hello_world\hello_world\bin\Debug\netcoreapp2.0\hello_world.runtimeconfig.dev.json
+D:\Studies\C#\tutorials\C-_practice\hello_world\hello_world\bin\Debug\netcoreapp2.0\hello_world.dll
+D:\Studies\C#\tutorials\C-_practice\hello_world\hello_world\bin\Debug\netcoreapp2.0\hello_world.pdb
+D:\Studies\C#\tutorials\C-_practice\hello_world\hello_world\obj\Debug\netcoreapp2.0\hello_world.csprojAssemblyReference.cache
+D:\Studies\C#\tutorials\C-_practice\hello_world\hello_world\obj\Debug\netcoreapp2.0\hello_world.csproj.CoreCompileInputs.cache
+D:\Studies\C#\tutorials\C-_practice\hello_world\hello_world\obj\Debug\netcoreapp2.0\hello_world.AssemblyInfoInputs.cache
+D:\Studies\C#\tutorials\C-_practice\hello_world\hello_world\obj\Debug\netcoreapp2.0\hello_world.AssemblyInfo.cs
+D:\Studies\C#\tutorials\C-_practice\hello_world\hello_world\obj\Debug\netcoreapp2.0\hello_world.dll
+D:\Studies\C#\tutorials\C-_practice\hello_world\hello_world\obj\Debug\netcoreapp2.0\hello_world.pdb
