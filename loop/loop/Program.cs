@@ -16,6 +16,11 @@ namespace loop
                 Console.WriteLine(count);
                 count++;
             }
+            Console.WriteLine("for loop is starting below...");
+            for (int i = 0; i < 5; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
