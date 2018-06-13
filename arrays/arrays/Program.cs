@@ -18,7 +18,7 @@ namespace arrays
             student[4] = 310;
             Console.WriteLine(student[2]);
 
-            var age = new int[5] { 10, 21, 55, 12, 13 };
+            var age = new int[] { 10, 21, 55, 12, 13 };
             Console.WriteLine(age[3]);
         }
     }
