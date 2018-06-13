@@ -15,10 +15,10 @@ namespace Pass_code
             while (username != "viyath" & Pass_code!="123")
             {
                 Console.WriteLine("Please enter the username...");
-                username = Console.ReadLine();
+                username = ReadUserInput();
 
                 Console.WriteLine("Please enter the user password...");
-                var passcode = Console.ReadLine();
+                var passcode = ReadUserInput();
 
                 if (username != "viyath")
                 {
@@ -34,6 +34,10 @@ namespace Pass_code
         static void WriteTryAgain()
         {
             Console.WriteLine("Invalid. Please try again.");
+        }
+        static string ReadUserInput()
+        {
+            return Console.ReadLine();
         }
     }
 }
