@@ -23,13 +23,17 @@ namespace hello_world
             {
                 Console.WriteLine("You were born in Duruthu");
             }
-            if (month == "february")
+            else if (month == "february")
             {
                 Console.WriteLine("You were born in Nawam");
             }
-            if (month == "March")
+            else if (month == "march")
             {
                 Console.WriteLine("You were born in Madin");
+            }
+            else
+            {
+                Console.WriteLine("You have born after March");
             }
         }
     }
