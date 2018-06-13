@@ -19,10 +19,16 @@ namespace Pass_code
             if (username=="viyath")
             {
                 Console.WriteLine("User is identified");
+            }else if(username!="viyath")
+                {
+                Console.WriteLine("Unknown user!");
             }
             if (passcode=="123")
             {
                 Console.WriteLine("Success password!");
+            }else
+            {
+                Console.WriteLine("Error in Passcode");
             }
         }
     }
