@@ -19,7 +19,12 @@ namespace arrays
             Console.WriteLine(student[2]);
 
             var age = new int[] { 10, 21, 55, 12, 13 };
-            Console.WriteLine(age[3]);
+            Console.WriteLine("Iterating array values in the array age");
+
+            foreach (var ages in age)
+            {
+                Console.WriteLine(ages);
+            }
         }
     }
 }
